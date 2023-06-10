@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystem\src\ofxLSGeometry.cpp">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystem\src\ofxLSInstruction.cpp">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystem\src\ofxLSLine.cpp">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystem\src\ofxLSTriangle.cpp">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystem\src\ofxLSTube.cpp">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystem\src\ofxLSTubeDeformed.cpp">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystem\src\ofxLSTurtle.cpp">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystem\src\ofxLSystem.cpp">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGCondition.cpp">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGModuleReaderParametric.cpp">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGOperation.cpp">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGrammarDetector.cpp">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGrammarParametric.cpp">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGrammarStandard.cpp">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGrammarStochastic.cpp">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGRuleParametric.cpp">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGSanitizer.cpp">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSystemGrammar.cpp">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\CameraMatrices.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxLSystem">
+      <UniqueIdentifier>{F681462D-8035-7B3A-8C53-0E59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxLSystem\src">
+      <UniqueIdentifier>{ACA0B98A-1516-6EFF-5795-4187}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxLSystemGrammar">
+      <UniqueIdentifier>{E6CA0225-EC25-22B8-51A5-0C30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxLSystemGrammar\src">
+      <UniqueIdentifier>{A0032BB5-AFFE-3204-A2D1-882B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystem\src\ofxLSBoundingBox.h">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystem\src\ofxLSBranch.h">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystem\src\ofxLSGeometry.h">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystem\src\ofxLSGeometryAvailable.h">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystem\src\ofxLSInputError.h">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystem\src\ofxLSInstruction.h">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystem\src\ofxLSLine.h">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystem\src\ofxLSOption.h">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystem\src\ofxLSTriangle.h">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystem\src\ofxLSTube.h">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystem\src\ofxLSTubeDeformed.h">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystem\src\ofxLSTurtle.h">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystem\src\ofxLSUtils.h">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystem\src\ofxLSystem.h">
+      <Filter>addons\ofxLSystem\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGCondition.h">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGModuleReaderParametric.h">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGOperation.h">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGrammarDetector.h">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGrammarParametric.h">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGrammarStandard.h">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGrammarStochastic.h">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGRuleParametric.h">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGRuleStandard.h">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGRuleStochastic.h">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGSanitizer.h">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSGUtils.h">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxLSystemGrammar\src\ofxLSystemGrammar.h">
+      <Filter>addons\ofxLSystemGrammar\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Camera.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\CameraMatrices.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
